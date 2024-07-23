@@ -6,8 +6,6 @@ Created a GUI based python program using tkinter for converting any text into it
 ## Screenshots
 ![Alt text](screenshot_1.png)
 ![Alt text](screenshot_2.png)
-![Alt text](screenshot_3.png)
-
 
 ## Table of Contents
 
