@@ -4,8 +4,8 @@ Created a GUI based python program using tkinter for converting any text into it
 ![Packets Capturing Tool](https://img.shields.io/badge/version-1.0-blue.svg)
 
 ## Screenshots
-![Alt text](screenshot_1.png)
-![Alt text](screenshot_2.png)
+![Alt text](image1.png)
+![Alt text](image2.png)
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@ Created a GUI based python program using tkinter for converting any text into it
 - [Requirements](#requirements)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
   
 
 ## Features
